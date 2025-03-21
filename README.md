@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 🤖 What I'm exploring in AI:
+
+- 🧠 Building a personal LLM agent with memory and voice modeling  
+- 🔬 Studying how AI can help accelerate human learning and creativity  
+- 💡 Experimenting with tools like LangChain, vector databases, and open-source models  
+- 🧰 Creating DIY AI + hardware projects to understand the full stack  
+
